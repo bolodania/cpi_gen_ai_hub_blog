@@ -26,4 +26,4 @@ Refer to the respective README files in the CAP project directory for setup inst
 
 ## Learn More
 
-For detailed implementation steps and insights, visit the [blog post](https://community.sap.com/).
+For detailed implementation steps and insights, visit the [blog post](https://community.sap.com/t5/technology-blog-posts-by-sap/invoking-llm-from-cloud-integration-responsibly-made-easy-with-generative/ba-p/14176222).
