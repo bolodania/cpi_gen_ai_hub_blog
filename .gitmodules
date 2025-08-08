@@ -1,0 +1,3 @@
+[submodule "businesspartner_srv"]
+	path = businesspartner_srv
+	url = https://github.com/bolodania/businesspartner_srv.git
